@@ -7,3 +7,7 @@ GNN + DRL + Mobile Network: https://gitlab.fing.edu.uy/mrandall/grows
 GNN + DRL + Edge: https://github.com/xuaikun/TransEdge
 
 GNN + DRL: https://gitlab.fing.edu.uy/mrandall/grows
+
+UAV + DRL:  https://github.com/AidinFerdowsi/DRL-UAV
+
+GNN + JRC： https://github.com/joleeson/Directional-JRC
