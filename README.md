@@ -16,3 +16,5 @@ GNN + TWin：https://github.com/MiquelFerriol/Papers/wiki/TwinNet
 https://bnn.upc.edu/
 
 GNN+聚类：https://github.com/jegraham/1-GNN-Clustering
+
+GNN+TransEdge：https://github.com/xuaikun/TransEdge/releases/tag/PeMSD4
