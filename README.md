@@ -11,3 +11,6 @@ GNN + DRL: https://gitlab.fing.edu.uy/mrandall/grows
 UAV + DRL:  https://github.com/AidinFerdowsi/DRL-UAV
 
 GNN + JRC： https://github.com/joleeson/Directional-JRC
+
+GNN + TWin：https://github.com/MiquelFerriol/Papers/wiki/TwinNet
+https://bnn.upc.edu/
