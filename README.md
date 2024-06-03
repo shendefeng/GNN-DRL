@@ -14,3 +14,5 @@ GNN + JRC： https://github.com/joleeson/Directional-JRC
 
 GNN + TWin：https://github.com/MiquelFerriol/Papers/wiki/TwinNet
 https://bnn.upc.edu/
+
+GNN+聚类：https://github.com/jegraham/1-GNN-Clustering
